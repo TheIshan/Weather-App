@@ -25,5 +25,5 @@ A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScr
 3. Weather data (temperature, humidity, wind speed, and weather condition) is fetched.
 4. If the city is valid, the data is displayed; otherwise, an error message is shown.
 
-## 📁 Folder Structure
+
 
