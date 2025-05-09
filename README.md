@@ -17,7 +17,7 @@ This is a simple and responsive **Weather App** built using HTML, CSS, and JavaS
 ## 🖼️ Preview
 
 
-![Weather App Preview](https://github.com/TheIshan/Weather-App/blob/main/Weather-main/images/Weather%20app%20peview.png)
+        ![Weather App Preview](https://github.com/TheIshan/Weather-App/blob/main/Weather-main/images/Weather%20app%20peview.png)
 
 
 
